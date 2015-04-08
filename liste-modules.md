@@ -1,4 +1,5 @@
 # Liste de modules qu'ils sont indispensables
+(ou au moins pas mal)
 
 [Une bonne liste en anglais](https://github.com/FlorentTorregrosa/drupal-projects-list)
 
