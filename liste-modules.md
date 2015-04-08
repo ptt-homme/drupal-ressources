@@ -2,6 +2,17 @@
 
 [Une bonne liste en anglais](https://github.com/FlorentTorregrosa/drupal-projects-list)
 
-## Images
+
+## Field - Champs Custom
+### [Paragraphs (paragraphs)](https://www.drupal.org/project/paragraphs)
+Crée un ensemble de champs
+### [Email (email)](https://www.drupal.org/project/email)
+Ajout un champ "email"
+### [Entity reference (entityreference)](https://www.drupal.org/project/entityreference)
+Crée un champ qui référencie une autre entitée (User, Taxon, node...) 
+### [Link (link)](https://www.drupal.org/project/link)
+Fournit un champs "Lien"
+
+## Images - Médias
 ### [Manual Crop (manualcrop)](https://www.drupal.org/project/manualcrop)
-Retaillage d'une image lors de l'upload
+Cropage manuel d'une image lors de l'upload
