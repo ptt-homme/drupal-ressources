@@ -3,6 +3,10 @@
 
 [Une bonne liste en anglais](https://github.com/FlorentTorregrosa/drupal-projects-list)
 
+## Administration
+### [Module Filter (module_filter)](https://www.drupal.org/project/module_filter)
+Vue améliorée du listing des projets
+
 
 ## Field - Champs Custom
 ### [Paragraphs (paragraphs)](https://www.drupal.org/project/paragraphs)
