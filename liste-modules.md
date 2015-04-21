@@ -17,7 +17,7 @@ Affiche un information (couleur de barre d'administration, favicon) suivant l'en
 
 ## Field - Champs Custom
 ### [Paragraphs (paragraphs)](https://www.drupal.org/project/paragraphs)
-Crée un ensemble de champs
+Crée un ensemble de champs (champs "méta")
 ### [Email (email)](https://www.drupal.org/project/email)
 Ajout un champ "email"
 ### [Entity reference (entityreference)](https://www.drupal.org/project/entityreference)
