@@ -12,6 +12,8 @@ Thème d'administration classe
 Thème pour la barre d'administration "Admin Menu"
 ### [Administration Menu (admin_menu)](https://www.drupal.org/project/admin_menu)
 Barre d'administration sous stéroides avec menu déroulant
+### [Environment Indicator (environment_indicator)](https://www.drupal.org/project/environment_indicator)
+Affiche un information (couleur de barre d'administration, favicon) suivant l'environement (dev, preprod...) 
 
 ## Field - Champs Custom
 ### [Paragraphs (paragraphs)](https://www.drupal.org/project/paragraphs)
