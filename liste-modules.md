@@ -6,7 +6,12 @@
 ## Administration
 ### [Module Filter (module_filter)](https://www.drupal.org/project/module_filter)
 Vue améliorée du listing des projets
-
+### [Adminimal (adminimal_theme)](https://www.drupal.org/project/adminimal_theme)
+Thème d'administration classe
+### [Adminimal Administration Menu (adminimal_admin_menu)](https://www.drupal.org/project/adminimal_admin_menu)
+Thème pour la barre d'administration "Admin Menu"
+### [Administration Menu (admin_menu)](https://www.drupal.org/project/admin_menu)
+Barre d'administration sous stéroides avec menu déroulant
 
 ## Field - Champs Custom
 ### [Paragraphs (paragraphs)](https://www.drupal.org/project/paragraphs)
