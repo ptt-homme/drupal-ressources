@@ -12,6 +12,8 @@ Thème d'administration classe
 Thème pour la barre d'administration "Admin Menu"
 ### [Administration Menu (admin_menu)](https://www.drupal.org/project/admin_menu)
 Barre d'administration sous stéroides avec menu déroulant
+### [Coffee (coffee)](https://www.drupal.org/project/coffee)
+Permet d'afficher un launcher via la combinaison de touches Alt+k
 ### [Environment Indicator (environment_indicator)](https://www.drupal.org/project/environment_indicator)
 Affiche un information (couleur de barre d'administration, favicon) suivant l'environement (dev, preprod...) 
 ### [Administration Views (admin_views)](https://www.drupal.org/project/admin_views)
