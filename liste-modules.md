@@ -92,6 +92,8 @@ Ajoute une barre au pied de la page pour traduire en live des strings de l'inter
 ## Site Building - Vues - Pages 
 ### [Context (context)](https://www.drupal.org/project/context)
 Action => Réaction, suivant des paramètres permet de créer des contextes qui en fonction agirons sur la construction du site (blocs, thèmes...)
+### [Menu Block (menu_block)](https://www.drupal.org/project/menu_block)
+Permet de positionner un menu dans un block, de choisir la profondeur maximale...
 ### [Views (views)](https://www.drupal.org/project/views)
 Création de pages, listings...
 ### [Better Exposed Filters (better_exposed_filters)](https://www.drupal.org/project/views)
