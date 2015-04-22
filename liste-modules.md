@@ -15,6 +15,12 @@ Barre d'administration sous stéroides avec menu déroulant
 ### [Environment Indicator (environment_indicator)](https://www.drupal.org/project/environment_indicator)
 Affiche un information (couleur de barre d'administration, favicon) suivant l'environement (dev, preprod...) 
 
+##Breadcrumbs - Fil d'Ariane
+###[Crumbs (crumbs)](https://www.drupal.org/project/crumbs)
+Gestion des crumbs fonctionnant à base de plugins
+###[Path Breadcrumbs (path_breadcrumbs)](https://www.drupal.org/project/path_breadcrumbs)
+Génère le breadcrumb suivant l'url à l'aide de pattern
+
 ## Field - Champs Custom
 ### [Paragraphs (paragraphs)](https://www.drupal.org/project/paragraphs)
 Crée un ensemble de champs (champs "méta")
