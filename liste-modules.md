@@ -4,8 +4,8 @@
 [Une bonne liste en anglais](https://github.com/FlorentTorregrosa/drupal-projects-list)
 
 ## Administration
-### [Module Filter (module_filter)](https://www.drupal.org/project/module_filter)
-Vue améliorée du listing des projets
+### [Administration Views (admin_views)](https://www.drupal.org/project/admin_views)
+Permet de surcharger les vues d'administrations Users, Content... par des vues plus utilisables
 ### [Adminimal (adminimal_theme)](https://www.drupal.org/project/adminimal_theme)
 Thème d'administration classe
 ### [Adminimal Administration Menu (adminimal_admin_menu)](https://www.drupal.org/project/adminimal_admin_menu)
@@ -16,8 +16,8 @@ Barre d'administration sous stéroides avec menu déroulant
 Permet d'afficher un launcher via la combinaison de touches Alt+k
 ### [Environment Indicator (environment_indicator)](https://www.drupal.org/project/environment_indicator)
 Affiche un information (couleur de barre d'administration, favicon) suivant l'environement (dev, preprod...) 
-### [Administration Views (admin_views)](https://www.drupal.org/project/admin_views)
-Permet de surcharger les vues d'administrations Users, Content... par des vues plus utilisables
+### [Module Filter (module_filter)](https://www.drupal.org/project/module_filter)
+Vue améliorée du listing des projets
 
 ## Authoring - Rédaction de contenu - Editeur WYSIWYG
 ### [CKEditor (ckeditor)](https://www.drupal.org/project/ckeditor)
