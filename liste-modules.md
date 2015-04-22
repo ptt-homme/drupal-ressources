@@ -25,6 +25,14 @@ Génère le breadcrumb suivant l'url à l'aide de pattern
 ### [Features (features)](https://www.drupal.org/project/features)
 Packaging en module de la configuration du site
 
+## Développement
+### [Devel (devel)](https://www.drupal.org/project/devel)
+Assistance au développement (dpm, krumo...), génération de contenu automatique
+### [Devel images provider (devel_image_provider)](https://www.drupal.org/project/devel_image_provider)
+Plugin à Devel Generate pour ajouter des photos de zombies, de chatons ou de bacon pour les contenus généré de manière automatique
+### [Stage File Proxy (stage_file_proxy)](https://www.drupal.org/project/stage_file_proxy)
+Remplace les médias non présent en local par le contenu du site distant
+
 ## Field - Champs Custom
 ### [Paragraphs (paragraphs)](https://www.drupal.org/project/paragraphs)
 Crée un ensemble de champs (champs "méta")
