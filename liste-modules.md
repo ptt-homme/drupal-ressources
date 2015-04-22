@@ -19,9 +19,11 @@ Affiche un information (couleur de barre d'administration, favicon) suivant l'en
 ### [Administration Views (admin_views)](https://www.drupal.org/project/admin_views)
 Permet de surcharger les vues d'administrations Users, Content... par des vues plus utilisables
 
-## Authoring - Editeur WYSIWYG
+## Authoring - Rédaction de contenu - Editeur WYSIWYG
 ### [CKEditor (ckeditor)](https://www.drupal.org/project/ckeditor)
 Editeur WYSIWYG pour Drupal
+### [Field Group (field_group)](https://www.drupal.org/project/field_group)
+Permet de regrouper et de ranger les champs sur un formulaire de création de node
 ### [Linkit (linkit)](https://www.drupal.org/project/linkit)
 Plugin CKEditor et plugin pour la field api permetant de lier vers une node avec autocompletion
 ### [Manual Crop (manualcrop)](https://www.drupal.org/project/manualcrop)
