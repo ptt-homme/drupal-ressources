@@ -44,6 +44,8 @@ Packaging en module de la configuration du site
 Veille aux normes de codage dans les modules custom
 ### [Devel (devel)](https://www.drupal.org/project/devel)
 Assistance au développement (dpm, krumo...), génération de contenu automatique
+### [Examples (examples)](https://www.drupal.org/project/examples)
+Exemple de tout un tas de modules : création de contenu, formulaires...
 ### [Devel images provider (devel_image_provider)](https://www.drupal.org/project/devel_image_provider)
 Plugin à Devel Generate pour ajouter des photos de zombies, de chatons ou de bacon pour les contenus généré de manière automatique
 ### [Stage File Proxy (stage_file_proxy)](https://www.drupal.org/project/stage_file_proxy)
@@ -80,3 +82,7 @@ Action => Réaction, suivant des paramètres permet de créer des contextes qui 
 Création de pages, listings...
 ### [Better Exposed Filters (better_exposed_filters)](https://www.drupal.org/project/views)
 Propose une meilleure gestion des filtres exposés via views
+
+##Utilisateurs - Users
+### [Email Registration (email_registration)](https://www.drupal.org/project/email_registration)
+Permet d'utiliser l'email comme identifiant
