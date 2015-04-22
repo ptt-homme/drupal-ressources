@@ -1,5 +1,5 @@
 # Liste de modules qu'ils sont indispensables
-(ou au moins pas mal)
+(Ou au moins pas mal)
 
 [Une bonne liste en anglais](https://github.com/FlorentTorregrosa/drupal-projects-list)
 
@@ -11,11 +11,11 @@ Thème d'administration classe
 ### [Adminimal Administration Menu (adminimal_admin_menu)](https://www.drupal.org/project/adminimal_admin_menu)
 Thème pour la barre d'administration "Admin Menu"
 ### [Administration Menu (admin_menu)](https://www.drupal.org/project/admin_menu)
-Barre d'administration sous stéroides avec menu déroulant
+Barre d'administration sous stéroïdes avec menu déroulant
 ### [Coffee (coffee)](https://www.drupal.org/project/coffee)
 Permet d'afficher un launcher via la combinaison de touches Alt+k
 ### [Environment Indicator (environment_indicator)](https://www.drupal.org/project/environment_indicator)
-Affiche un information (couleur de barre d'administration, favicon) suivant l'environement (dev, preprod...) 
+Affiche une information (couleur de barre d'administration, favicon) suivant l'environement (dev, preprod...) 
 ### [jQuery Update (jquery_update)](https://www.drupal.org/project/jquery_update)
 Remplace la version de jQuery dans le core par une plus récente
 ### [Module Filter (module_filter)](https://www.drupal.org/project/module_filter)
@@ -23,15 +23,15 @@ Vue améliorée du listing des projets
 ### [Redirect (redirect)](https://www.drupal.org/project/redirect)
 Automatise la création de 301 lors du changement d'alias
 ### [Transliteration (transliteration)](https://www.drupal.org/project/transliteration)
-Remplace les caractères spéciaux par des caratctères stricto alphanumériques
+Remplace les caractères spéciaux par des caractères stricto alphanumériques
 
 ## Authoring - Rédaction de contenu - Editeur WYSIWYG
 ### [CKEditor (ckeditor)](https://www.drupal.org/project/ckeditor)
-Editeur WYSIWYG pour Drupal
+Éditeur WYSIWYG pour Drupal
 ### [Field Group (field_group)](https://www.drupal.org/project/field_group)
 Permet de regrouper et de ranger les champs sur un formulaire de création de node
 ### [File Field Path (filefield_paths)](https://www.drupal.org/project/filefield_paths)
-Gestion avancée des images et fichier de la field api (chemin et nom des fichier)
+Gestion avancée des images et fichier de la field api (chemin et nom des fichiers)
 ### [ImageCache Actions (imagecache_actions)](https://www.drupal.org/project/imagecache_actions)
 Ajoute beaucoup de style aux styles d'images
 ### [IMCE (imce)](https://www.drupal.org/project/imce)
@@ -39,7 +39,7 @@ Permet de charger des fichiers / images dans un wysiwyg
 ### [IMCE Mkdir(imce_mkdir)](https://www.drupal.org/project/imce_mkdir)
 Extension à IMCE, pour créer des dossiers
 ### [Linkit (linkit)](https://www.drupal.org/project/linkit)
-Plugin CKEditor et plugin pour la field api permetant de lier vers une node avec autocompletion
+Plugin CKEditor et plugin pour la field api permettant de lier vers une node avec auto-complétion
 ### [Manual Crop (manualcrop)](https://www.drupal.org/project/manualcrop)
 Cropage manuel d'une image lors de l'upload
 
@@ -65,7 +65,7 @@ Exemple de tout un tas de modules : création de contenu, formulaires...
 ### [Devel images provider (devel_image_provider)](https://www.drupal.org/project/devel_image_provider)
 Plugin à Devel Generate pour ajouter des photos de zombies, de chatons ou de bacon pour les contenus généré de manière automatique
 ### [Stage File Proxy (stage_file_proxy)](https://www.drupal.org/project/stage_file_proxy)
-Remplace les médias non présent en local par le contenu du site distant
+Remplace les médias non présents en local par le contenu du site distant
 
 ## Déploiement de contenu
 ### [Deploy - Content Staging (deploy)](https://www.drupal.org/project/deploy)
@@ -89,7 +89,7 @@ Crée un ensemble de champs (champs "méta")
 ### [Internationalization (i18n)](https://www.drupal.org/project/i18n)
 Suite de modules indispensable peu importe la méthode de traduction choisie
 ### [Entity Translation (entity_translation)](https://www.drupal.org/project/entity_translation)
-Permet de traduire les entitée, à la manière Drupal 8, au niveau des field et non plus au niveau de la node comme avec *Content Translation*
+Permet de traduire les entités, à la manière Drupal 8, au niveau des fields et non plus au niveau de la node comme avec *Content Translation*
 ### [Title (title)](https://www.drupal.org/project/title)
 Transforme le titre en tant que field/champ au lieu d'une propriété. Module indispensable quand on utilise Entity Translation
 ### [Localization update (l10n_update)](https://www.drupal.org/project/l10n_update)
@@ -121,7 +121,7 @@ En fonction d'évènements, réagit (envoi de mail, publication de contenu...)
 ### [Taxonomy Menu (taxonomy_menu)](https://www.drupal.org/project/taxonomy_menu)
 Création d'un menu en fonction du vocabulaire d'une taxonomy. 
 ### [Webform (webform)](https://www.drupal.org/project/webform)
-Permet de créer des formalaire via une UI
+Permet de créer des formulaires via une UI
 
 ##Utilisateurs - Users
 ### [Email Registration (email_registration)](https://www.drupal.org/project/email_registration)
