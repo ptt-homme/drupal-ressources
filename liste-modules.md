@@ -50,8 +50,6 @@ Plugin à Devel Generate pour ajouter des photos de zombies, de chatons ou de ba
 Remplace les médias non présent en local par le contenu du site distant
 
 ## Field - Champs Custom
-### [Paragraphs (paragraphs)](https://www.drupal.org/project/paragraphs)
-Crée un ensemble de champs (champs "méta")
 ### [Date (date)](https://www.drupal.org/project/date)
 Ajoute des champs date, avec datepicker...
 ### [Email (email)](https://www.drupal.org/project/email)
@@ -60,6 +58,8 @@ Ajout un champ "email"
 Crée un champ qui référencie une autre entitée (User, Taxon, node...) 
 ### [Link (link)](https://www.drupal.org/project/link)
 Fournit un champ "Lien"
+### [Paragraphs (paragraphs)](https://www.drupal.org/project/paragraphs)
+Crée un ensemble de champs (champs "méta")
 
 ## Internationalisation - Localisation - i18n - l10n
 ### [Internationalization (i18n)](https://www.drupal.org/project/i18n)
