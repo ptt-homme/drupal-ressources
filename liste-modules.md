@@ -20,6 +20,8 @@ Affiche un information (couleur de barre d'administration, favicon) suivant l'en
 Remplace la version de jQuery dans le core par une plus récente
 ### [Module Filter (module_filter)](https://www.drupal.org/project/module_filter)
 Vue améliorée du listing des projets
+### [Transliteration (transliteration)](https://www.drupal.org/project/transliteration)
+Remplace les caractères spéciaux par des caratctères stricto alphanumériques
 
 ## Authoring - Rédaction de contenu - Editeur WYSIWYG
 ### [CKEditor (ckeditor)](https://www.drupal.org/project/ckeditor)
@@ -104,6 +106,8 @@ Création de pages, listings...
 Permet de créer des motifs pour les alias d'URL
 ### [Rules (rules)](https://www.drupal.org/project/rules)
 En fonction d'évènements, réagit (envoi de mail, publication de contenu...)
+### [Webform (webform)](https://www.drupal.org/project/webform)
+Permet de créer des formalaire via une UI
 
 ##Utilisateurs - Users
 ### [Email Registration (email_registration)](https://www.drupal.org/project/email_registration)
