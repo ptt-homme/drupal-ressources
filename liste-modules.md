@@ -21,6 +21,10 @@ Gestion des crumbs fonctionnant à base de plugins
 ###[Path Breadcrumbs (path_breadcrumbs)](https://www.drupal.org/project/path_breadcrumbs)
 Génère le breadcrumb suivant l'url à l'aide de pattern
 
+## Configuration
+### [Features (features)](https://www.drupal.org/project/features)
+Packaging en module de la configuration du site
+
 ## Field - Champs Custom
 ### [Paragraphs (paragraphs)](https://www.drupal.org/project/paragraphs)
 Crée un ensemble de champs (champs "méta")
