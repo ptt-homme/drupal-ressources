@@ -14,6 +14,14 @@ Thème pour la barre d'administration "Admin Menu"
 Barre d'administration sous stéroides avec menu déroulant
 ### [Environment Indicator (environment_indicator)](https://www.drupal.org/project/environment_indicator)
 Affiche un information (couleur de barre d'administration, favicon) suivant l'environement (dev, preprod...) 
+### [Administration Views (admin_views)](https://www.drupal.org/project/admin_views)
+Permet de surcharger les vues d'administrations Users, Content... par des vues plus utilisables
+
+## Authoring - Editeur WYSIWYG
+### [CKEditor (ckeditor)](https://www.drupal.org/project/ckeditor)
+Editeur WYSIWYG pour Drupal
+### [Linkit (linkit)](https://www.drupal.org/project/linkit)
+Plugin CKEditor et plugin pour la field api permetant de lier vers une node avec autocompletion
 
 ##Breadcrumbs - Fil d'Ariane
 ###[Crumbs (crumbs)](https://www.drupal.org/project/crumbs)
