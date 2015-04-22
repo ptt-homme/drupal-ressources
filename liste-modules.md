@@ -22,6 +22,8 @@ Permet de surcharger les vues d'administrations Users, Content... par des vues p
 Editeur WYSIWYG pour Drupal
 ### [Linkit (linkit)](https://www.drupal.org/project/linkit)
 Plugin CKEditor et plugin pour la field api permetant de lier vers une node avec autocompletion
+### [Manual Crop (manualcrop)](https://www.drupal.org/project/manualcrop)
+Cropage manuel d'une image lors de l'upload
 
 ##Breadcrumbs - Fil d'Ariane
 ###[Crumbs (crumbs)](https://www.drupal.org/project/crumbs)
@@ -52,10 +54,6 @@ Ajout un champ "email"
 Crée un champ qui référencie une autre entitée (User, Taxon, node...) 
 ### [Link (link)](https://www.drupal.org/project/link)
 Fournit un champ "Lien"
-
-## Images - Médias
-### [Manual Crop (manualcrop)](https://www.drupal.org/project/manualcrop)
-Cropage manuel d'une image lors de l'upload
 
 ## Internationalisation - Localisation - i18n - l10n
 ### [Internationalization (i18n)](https://www.drupal.org/project/i18n)
