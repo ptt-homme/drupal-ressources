@@ -20,6 +20,8 @@ Affiche un information (couleur de barre d'administration, favicon) suivant l'en
 Remplace la version de jQuery dans le core par une plus récente
 ### [Module Filter (module_filter)](https://www.drupal.org/project/module_filter)
 Vue améliorée du listing des projets
+### [Redirect (redirect)](https://www.drupal.org/project/redirect)
+Automatise la création de 301 lors du changement d'alias
 ### [Transliteration (transliteration)](https://www.drupal.org/project/transliteration)
 Remplace les caractères spéciaux par des caratctères stricto alphanumériques
 
@@ -65,6 +67,10 @@ Plugin à Devel Generate pour ajouter des photos de zombies, de chatons ou de ba
 ### [Stage File Proxy (stage_file_proxy)](https://www.drupal.org/project/stage_file_proxy)
 Remplace les médias non présent en local par le contenu du site distant
 
+## Déploiement de contenu
+### [Deploy - Content Staging (deploy)](https://www.drupal.org/project/deploy)
+Déploiement de contenu entre plusieurs sites
+
 ## Field - Champs Custom
 ### [Date (date)](https://www.drupal.org/project/date)
 Ajoute des champs date, avec datepicker...
@@ -91,6 +97,12 @@ Permet d'importer et de mettre à jour les traductions du core et des modules co
 ### [Localization client (l10n_client)](https://www.drupal.org/project/l10n_client)
 Ajoute une barre au pied de la page pour traduire en live des strings de l'interface
 
+## Multisites
+### [Domains Access (domain)](https://www.drupal.org/project/domain)
+Permet de gérer du contenu par domaine (une DB + une instance de code = pleins de sites)
+### [Domains Views (domain_views)](https://www.drupal.org/project/domain_views)
+Intégrationd des droits d'accès gérés par domain dans views
+
 ## Site Building - Vues - Pages
 ### [Better Exposed Filters (better_exposed_filters)](https://www.drupal.org/project/views)
 Propose une meilleure gestion des filtres exposés via views 
@@ -106,6 +118,8 @@ Création de pages, listings...
 Permet de créer des motifs pour les alias d'URL
 ### [Rules (rules)](https://www.drupal.org/project/rules)
 En fonction d'évènements, réagit (envoi de mail, publication de contenu...)
+### [Taxonomy Menu (taxonomy_menu)](https://www.drupal.org/project/taxonomy_menu)
+Création d'un menu en fonction du vocabulaire d'une taxonomy. 
 ### [Webform (webform)](https://www.drupal.org/project/webform)
 Permet de créer des formalaire via une UI
 
