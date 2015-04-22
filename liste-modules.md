@@ -16,6 +16,8 @@ Barre d'administration sous stéroides avec menu déroulant
 Permet d'afficher un launcher via la combinaison de touches Alt+k
 ### [Environment Indicator (environment_indicator)](https://www.drupal.org/project/environment_indicator)
 Affiche un information (couleur de barre d'administration, favicon) suivant l'environement (dev, preprod...) 
+### [jQuery Update (jquery_update)](https://www.drupal.org/project/jquery_update)
+Remplace la version de jQuery dans le core par une plus récente
 ### [Module Filter (module_filter)](https://www.drupal.org/project/module_filter)
 Vue améliorée du listing des projets
 
@@ -68,6 +70,8 @@ Ajoute des champs date, avec datepicker...
 Ajout un champ "email"
 ### [Entity reference (entityreference)](https://www.drupal.org/project/entityreference)
 Crée un champ qui référencie une autre entitée (User, Taxon, node...) 
+### [Link Image Field (linkimagefield)](https://www.drupal.org/project/linkimagefield)
+Permet de créer un champ Image + URL
 ### [Link (link)](https://www.drupal.org/project/link)
 Fournit un champ "Lien"
 ### [Paragraphs (paragraphs)](https://www.drupal.org/project/paragraphs)
