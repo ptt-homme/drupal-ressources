@@ -26,6 +26,8 @@ Génère le breadcrumb suivant l'url à l'aide de pattern
 Packaging en module de la configuration du site
 
 ## Développement
+### [Coder (coder)](https://www.drupal.org/project/coder)
+Veille aux normes de codage dans les modules custom
 ### [Devel (devel)](https://www.drupal.org/project/devel)
 Assistance au développement (dpm, krumo...), génération de contenu automatique
 ### [Devel images provider (devel_image_provider)](https://www.drupal.org/project/devel_image_provider)
