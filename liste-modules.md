@@ -24,6 +24,10 @@ Permet de surcharger les vues d'administrations Users, Content... par des vues p
 Editeur WYSIWYG pour Drupal
 ### [Field Group (field_group)](https://www.drupal.org/project/field_group)
 Permet de regrouper et de ranger les champs sur un formulaire de création de node
+### [File Field Path (filefield_paths)](https://www.drupal.org/project/filefield_paths)
+Gestion avancée des images et fichier de la field api (chemin et nom des fichier)
+### [ImageCache Actions (imagecache_actions)](https://www.drupal.org/project/imagecache_actions)
+Ajoute beaucoup de style aux styles d'images
 ### [Linkit (linkit)](https://www.drupal.org/project/linkit)
 Plugin CKEditor et plugin pour la field api permetant de lier vers une node avec autocompletion
 ### [Manual Crop (manualcrop)](https://www.drupal.org/project/manualcrop)
