@@ -23,7 +23,7 @@ Ajout un champ "email"
 ### [Entity reference (entityreference)](https://www.drupal.org/project/entityreference)
 Crée un champ qui référencie une autre entitée (User, Taxon, node...) 
 ### [Link (link)](https://www.drupal.org/project/link)
-Fournit un champs "Lien"
+Fournit un champ "Lien"
 
 ## Images - Médias
 ### [Manual Crop (manualcrop)](https://www.drupal.org/project/manualcrop)
