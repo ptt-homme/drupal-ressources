@@ -89,7 +89,9 @@ Permet d'importer et de mettre à jour les traductions du core et des modules co
 ### [Localization client (l10n_client)](https://www.drupal.org/project/l10n_client)
 Ajoute une barre au pied de la page pour traduire en live des strings de l'interface
 
-## Site Building - Vues - Pages 
+## Site Building - Vues - Pages
+### [Better Exposed Filters (better_exposed_filters)](https://www.drupal.org/project/views)
+Propose une meilleure gestion des filtres exposés via views 
 ### [Context (context)](https://www.drupal.org/project/context)
 Action => Réaction, suivant des paramètres permet de créer des contextes qui en fonction agirons sur la construction du site (blocs, thèmes...)
 ### [Menu Block (menu_block)](https://www.drupal.org/project/menu_block)
@@ -98,8 +100,10 @@ Permet de positionner un menu dans un block, de choisir la profondeur maximale..
 Personnalise les métadonnées
 ### [Views (views)](https://www.drupal.org/project/views)
 Création de pages, listings...
-### [Better Exposed Filters (better_exposed_filters)](https://www.drupal.org/project/views)
-Propose une meilleure gestion des filtres exposés via views
+### [Pathauto (pathauto)](https://www.drupal.org/project/pathauto)
+Permet de créer des motifs pour les alias d'URL
+### [Rules (rules)](https://www.drupal.org/project/rules)
+En fonction d'évènements, réagit (envoi de mail, publication de contenu...)
 
 ##Utilisateurs - Users
 ### [Email Registration (email_registration)](https://www.drupal.org/project/email_registration)
