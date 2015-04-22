@@ -30,6 +30,8 @@ Cropage manuel d'une image lors de l'upload
 Gestion des crumbs fonctionnant à base de plugins
 ###[Path Breadcrumbs (path_breadcrumbs)](https://www.drupal.org/project/path_breadcrumbs)
 Génère le breadcrumb suivant l'url à l'aide de pattern
+###[Breadcrumbs by Path (path_breadcrumbs)](https://www.drupal.org/project/breadcrumbs_by_path)
+Gestion des breadcrumbs via la structure de l'URL
 
 ## Configuration
 ### [Features (features)](https://www.drupal.org/project/features)
@@ -66,3 +68,9 @@ Transforme le titre en tant que field/champ au lieu d'une propriété. Module in
 Permet d'importer et de mettre à jour les traductions du core et des modules contrib de Drupal.
 ### [Localization client (l10n_client)](https://www.drupal.org/project/l10n_client)
 Ajoute une barre au pied de la page pour traduire en live des strings de l'interface
+
+## Vues - Pages 
+### [Views (views)](https://www.drupal.org/project/views)
+Création de pages, listings...
+### [Better Exposed Filters (better_exposed_filters)](https://www.drupal.org/project/views)
+Propose une meilleure gestion des filtres exposés via views
