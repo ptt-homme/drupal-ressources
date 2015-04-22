@@ -28,6 +28,10 @@ Permet de regrouper et de ranger les champs sur un formulaire de création de no
 Gestion avancée des images et fichier de la field api (chemin et nom des fichier)
 ### [ImageCache Actions (imagecache_actions)](https://www.drupal.org/project/imagecache_actions)
 Ajoute beaucoup de style aux styles d'images
+### [IMCE (imce)](https://www.drupal.org/project/imce)
+Permet de charger des fichiers / images dans un wysiwyg
+### [IMCE Mkdir(imce_mkdir)](https://www.drupal.org/project/imce_mkdir)
+Extension à IMCE, pour créer des dossiers
 ### [Linkit (linkit)](https://www.drupal.org/project/linkit)
 Plugin CKEditor et plugin pour la field api permetant de lier vers une node avec autocompletion
 ### [Manual Crop (manualcrop)](https://www.drupal.org/project/manualcrop)
