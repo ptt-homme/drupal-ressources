@@ -101,7 +101,7 @@ Ajoute une barre au pied de la page pour traduire en live des strings de l'inter
 ### [Domains Access (domain)](https://www.drupal.org/project/domain)
 Permet de gérer du contenu par domaine (une DB + une instance de code = pleins de sites)
 ### [Domains Views (domain_views)](https://www.drupal.org/project/domain_views)
-Intégrationd des droits d'accès gérés par domain dans views
+Intégration des droits d'accès gérés par domain dans views
 
 ## Site Building - Vues - Pages
 ### [Better Exposed Filters (better_exposed_filters)](https://www.drupal.org/project/views)
