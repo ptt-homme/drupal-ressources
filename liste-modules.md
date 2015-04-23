@@ -1,4 +1,9 @@
-# Liste de modules qu'ils sont indispensables
+# Liste de sites indispensables
+
+### [simplytest.me](http://simplytest.me/)
+Permet le test online de modules, thèmes sur D6, D7 et D8
+
+# Liste de modules indispensables
 (Ou au moins pas mal)
 
 [Une bonne liste en anglais](https://github.com/FlorentTorregrosa/drupal-projects-list)
@@ -104,6 +109,10 @@ Fournit la base de l'implémentation de Captcha, sur lequel s'ajoutent ensuite d
 Ajoute de façon transparente aux utilisateurs un champ caché et/ou une vérification sur la durée de saisie d'un formulaire pour déterminer la nature de la soumission.
 ### [Mollom](https://www.drupal.org/project/mollom)
 Un module permettant de recouper contenu et utilisateur afin de déterminer la toxicité de la soumission, et de la traiter en conséquence.
+
+## Maintenance
+### [Backup and Migrate (backup_migrate)](https://www.drupal.org/project/backup_migrate)
+Permet une sauvegarde et une migration simplifiée des base de données, fichiers.
 
 ## Multisites
 ### [Domains Access (domain)](https://www.drupal.org/project/domain)
