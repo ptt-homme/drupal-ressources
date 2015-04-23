@@ -131,6 +131,12 @@ Création d'un menu en fonction du vocabulaire d'une taxonomy.
 ### [Webform (webform)](https://www.drupal.org/project/webform)
 Permet de créer des formulaires via une UI
 
+##Thèmes - Themes
+### [Omega (omega)](https://www.drupal.org/project/omega)
+
 ##Utilisateurs - Users
 ### [Email Registration (email_registration)](https://www.drupal.org/project/email_registration)
 Permet d'utiliser l'email comme identifiant
+### [User registration password (user_registrationpassword)](https://www.drupal.org/project/user_registrationpassword)
+Permet la saisie d'un mot de passe dans le formulaire d'inscription 
+
